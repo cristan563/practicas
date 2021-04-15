@@ -1,0 +1,15 @@
+
+print("Biografia")
+print("Cual es su fecha de nacimiento?")
+nombre = input()
+print("Cual es su fecha de nacimiento?")
+fecha = input()
+print("Cual es su direccion?")
+direccion = input()
+print("cuales son sus metas personales?")
+metas = input()
+
+print(f"-nombre: {nombre}")
+print(f"-Fecha de Nacimiento: {fecha}")
+print(f"-Direccion: {direccion}")
+print(f"-Metas Personales: {metas}")
